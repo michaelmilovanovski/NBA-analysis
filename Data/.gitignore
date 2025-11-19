@@ -1,0 +1,13 @@
+# Large data files
+*.sqlite
+*.db
+*.csv
+*.zip
+
+# Data folder large files
+Data/*.sqlite
+Data/*.csv
+
+# System/IDE files
+.DS_Store
+Thumbs.db
